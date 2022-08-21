@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+#container1 {
+   align-items: center;
+    align-content: center;
+}
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+#note1{
+    text-align: center;
+    text-decoration: wavy;
+    text-justify: newspaper;
+    font-family: cursive;
+}
+#form {
+    background-color: aqua;
+    max-width: fit-content;
+    margin:50px;
+}
+#imgh {
+    max-width: fit-content;
+    
+}
